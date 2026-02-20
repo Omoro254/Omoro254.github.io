@@ -1,8 +1,7 @@
 # Dalmas Osuri – Professional Portfolio Website
 
-This repository contains the source code for my professional portfolio website built using the **Minimal Mistakes Jekyll Theme** and hosted on GitHub Pages.
 
-The website serves as my digital professional identity, showcasing my resume, technical projects, cybersecurity lab challenge writeups, certifications, and contact information for potential employers, academic peers, and collaborators.
+Thia website serves as my digital professional identity, showcasing my resume, technical projects, cybersecurity lab challenge writeups, certifications, and contact information for potential employers, academic peers, and collaborators.
 
 ---
 
@@ -141,32 +140,10 @@ Created employee training modules covering phishing detection, malware preventio
 **Address:** 42-40118  
 **Telephone:** +254741037755  
 **Email:** dalmasosuri@gmail.com  
-**LinkedIn:** (Add your LinkedIn profile link)  
-**GitHub:** (Add your GitHub profile link)
+**LinkedIn:** https://www.linkedin.com/in/omoro-dalmas-348581182/ 
+**GitHub:** https://github.com/Omoro254
 
 ---
 
-## ⚙️ Built With
-
-- Jekyll
-- Minimal Mistakes Theme
-- GitHub Pages
-- Markdown
-
-Theme documentation:  
-https://mmistakes.github.io/minimal-mistakes/docs/configuration/
-
----
-
-## 🚀 Deployment
-
-1. Push repository to GitHub  
-2. Go to **Settings → Pages**  
-3. Select the `main` branch and root folder  
-4. Save  
-
-Your portfolio site will automatically build and deploy.
-
----
 
 © 2026 Dalmas Osuri – Professional Portfolio

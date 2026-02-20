@@ -1,4 +1,4 @@
-# 🛡️ Dalmas Omoro – Professional Portfolio Website
+# 🛡️ Omoro Dalmas – Professional Portfolio Website
 
 Welcome to my professional cybersecurity and IT portfolio repository.
 
@@ -32,10 +32,11 @@ I have hands-on experience working with servers, firewalls, routers, switches, a
 
 ## 🏠 Home
 
-- Professional Photo  
-- Full Name  
-- Professional Title  
-- Short Professional Summary  
+- Professional Photo  [Omoro Dalmas](IMG_20241231_150637_887.jpg)
+- Full Name  Omoro Dalmas
+- Professional Title  Information Security Specialist
+- Short Professional Summary
+  Dedicated and results-driven Network and System Administrator with over 3 years of hands-on experience in IT infrastructure management, information security, and technical support. Skilled in network configuration, risk assessment, system troubleshooting, and security monitoring, with a strong foundation in cybersecurity best practices. Proven ability to enhance system performance, ensure data integrity, and support organizational security objectives through proactive problem-solving and continuous improvement.
 
 ---
 

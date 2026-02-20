@@ -80,3 +80,73 @@ Maseno University – Maseno, Kenya
 ✔ Technical Support
 ✔ Team Collaboration
 ✔ Adaptability & Continuous Learning
+
+---
+📜 Certifications
+
+🎓 CCNA 1 Certification
+
+🕵️ Wireshark Ninja: Mastering Real Wireshark
+
+🔎 Digital Forensic Masterclass
+
+💻 Real Ethical Hacking
+
+🛡 Mastering Network Security: Defending Against Cyber Threats
+
+🔐 Cybersecurity Essentials
+
+📂 Data Protection
+
+📱 Real Android App Development
+
+🚀 Featured Projects
+1️⃣ Network Security Monitoring System
+
+Implemented traffic monitoring and anomaly detection using Wireshark and log analysis tools.
+
+2️⃣ Disaster Recovery & Backup Strategy
+
+Designed structured disaster recovery documentation with automated backup validation.
+
+3️⃣ Security Awareness Training Program
+
+Developed phishing awareness and cyber hygiene training modules for staff.
+
+🧪 Lab Challenges
+🔐 SQL Injection Lab
+
+Problem: Exploit vulnerable login form
+Tools: Burp Suite, Browser DevTools
+Lesson Learned: Always use parameterized queries and proper input validation
+
+🐧 Linux Privilege Escalation
+
+Problem: Escalate user privileges
+Tools: LinPEAS, Linux CLI
+Lesson Learned: Misconfigured permissions create serious security risks
+
+📫 Contact Me
+
+📍 Address: 42-40118
+📞 Tel: +254741037755
+📧 Email: dalmasosuri@gmail.com
+
+🔗 LinkedIn: (Add Link)
+💻 GitHub: (Add Link)
+
+🌐 Portfolio Deployment
+
+This portfolio is designed for deployment via:
+
+GitHub Pages
+
+Netlify
+
+Jekyll (Minimal Mistakes Theme)
+
+🔥 Professional Focus
+
+"Securing Networks. Optimizing Systems. Defending Against Cyber Threats."
+
+© 2026 Dalmas Osuri | Professional Cybersecurity Portfolio

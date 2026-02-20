@@ -9,7 +9,7 @@ Thia website serves as my digital professional identity, showcasing my resume, t
 
 Once deployed via GitHub Pages, the site will be available at:
 
-https://yourusername.github.io/
+https://Omoro254.github.io/
 
 ---
 

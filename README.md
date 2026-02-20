@@ -1,279 +1,230 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Dalmas Osuri | Network & System Administrator</title>
+# 🛡️ Dalmas Osuri – Professional Portfolio Website
 
-<style>
-:root {
-    --bg:#0a192f;
-    --card:#112240;
-    --text:#ccd6f6;
-    --accent:#64ffda;
-}
+Welcome to my professional cybersecurity and IT portfolio repository.
 
-body.light {
-    --bg:#f4f6f9;
-    --card:#ffffff;
-    --text:#333;
-    --accent:#0077b6;
-}
+This website represents my digital identity as a:
 
-html {
-    scroll-behavior:smooth;
-}
+> **NETWORK ADMIN | SYSTEM ADMIN | ICT TECHNICIAN**
 
-body {
-    margin:0;
-    font-family: 'Segoe UI', sans-serif;
-    background:var(--bg);
-    color:var(--text);
-    transition:0.3s ease;
-}
+It showcases my resume, certifications, projects, cybersecurity lab writeups, and professional contact details.
 
-nav {
-    position:fixed;
-    width:100%;
-    background:var(--card);
-    padding:15px;
-    text-align:center;
-    z-index:1000;
-}
+---
 
-nav a {
-    color:var(--accent);
-    margin:0 15px;
-    text-decoration:none;
-    font-weight:bold;
-}
+## 📌 About Me
 
-.theme-toggle {
-    position:absolute;
-    right:20px;
-    top:15px;
-    cursor:pointer;
-    color:var(--accent);
-}
+Dedicated and skilled IT professional with over 3 years of experience in system and network administration.
 
-header {
-    padding:120px 20px 60px;
-    text-align:center;
-}
+Advanced expertise in:
 
-header img {
-    width:160px;
-    border-radius:50%;
-    border:3px solid var(--accent);
-}
+- Information Security  
+- Network Security Management  
+- Network Optimization  
+- Network Design & Implementation  
+- Risk Assessment & ISMS Support  
 
-section {
-    padding:60px 20px;
-    max-width:1000px;
-    margin:auto;
-}
+I have hands-on experience working with servers, firewalls, routers, switches, and enterprise IT systems.
 
-h2 {
-    border-bottom:2px solid var(--accent);
-    padding-bottom:10px;
-}
+---
 
-.card {
-    background:var(--card);
-    padding:20px;
-    margin:20px 0;
-    border-radius:10px;
-    transition:transform 0.3s ease;
-}
+# 🌐 Portfolio Sections
 
-.card:hover {
-    transform:translateY(-5px);
-}
+---
 
-.skills span {
-    display:inline-block;
-    background:var(--accent);
-    color:#000;
-    padding:5px 10px;
-    margin:5px;
-    border-radius:5px;
-    font-size:14px;
-}
+## 🏠 Home
 
-footer {
-    text-align:center;
-    padding:20px;
-    background:var(--card);
-}
+- Professional Photo  
+- Full Name  
+- Professional Title  
+- Short Professional Summary  
 
-.fade-in {
-    opacity:0;
-    transform:translateY(20px);
-    transition:all 0.8s ease-out;
-}
+---
 
-.fade-in.visible {
-    opacity:1;
-    transform:translateY(0);
-}
-</style>
-</head>
+## 📄 Resume
 
-<body>
+### 🎓 Education
 
-<nav>
-<a href="#home">Home</a>
-<a href="#resume">Resume</a>
-<a href="#projects">Projects</a>
-<a href="#labs">Lab Challenges</a>
-<a href="#contact">Contact</a>
-<span class="theme-toggle" onclick="toggleTheme()">🌗</span>
-</nav>
+**Bachelor of Science in Computer Science**  
+Maseno University – Kenya  
 
-<header id="home" class="fade-in">
-<img src="your-photo.jpg" alt="Profile Photo">
-<h1>Dalmas Osuri</h1>
-<p><strong>NETWORK ADMIN | SYSTEM ADMIN | ICT TECHNICIAN</strong></p>
-<p>Dedicated IT professional with over 3 years of experience in system administration, network security, and information security management.</p>
-</header>
+---
 
-<section id="resume" class="fade-in">
-<h2>Resume</h2>
+### 💼 Professional Experience
 
-<div class="card">
-<h3>Education</h3>
-<p><strong>BSc Computer Science</strong><br>Maseno University – Kenya</p>
-</div>
+#### 🔐 Information Security Specialist Intern  
+**GIZ Kenya/Somalia – Nairobi, Kenya**  
+*June 2025 – Present*
 
-<div class="card">
-<h3>Professional Experience</h3>
+- Information asset classification and documentation
+- Risk assessment & risk register management
+- Internal audit & penetration testing coordination
+- Security policy development
+- ISMS documentation & compliance support
+- Security awareness training development
+- Vulnerability assessment support
+- ISO/ISMS event coordination
+- Confidential documentation management
 
-<h4>Information Security Specialist Intern – GIZ Kenya/Somalia (2025–Present)</h4>
-<ul>
-<li>Information asset classification and risk assessment documentation</li>
-<li>Internal audit & penetration testing coordination</li>
-<li>Security policy development and ISMS support</li>
-</ul>
+---
 
-<h4>System/Network Admin Intern – Kenya Revenue Authority (2023–2024)</h4>
-<ul>
-<li>Level 1 & 2 technical support</li>
-<li>Network monitoring and configuration</li>
-<li>Disaster recovery planning & backups</li>
-</ul>
+#### 🌐 System / Network Admin Intern  
+**Kenya Revenue Authority – Kisumu, Kenya**  
+*Jan 2023 – Dec 2024*
 
-<h4>ICT Technician Intern – Nyanza Reproductive Health Society (2020–2021)</h4>
-<ul>
-<li>Technical troubleshooting</li>
-<li>IT documentation & inventory management</li>
-</ul>
+- Level 1 & 2 technical support
+- Hardware & software troubleshooting
+- Network monitoring & configuration
+- Disaster recovery planning
+- IT asset tracking
+- Network performance reporting
+- Network upgrades & installations
 
-</div>
+---
 
-<div class="card skills">
-<h3>Key Skills</h3>
-<span>Network Security</span>
-<span>System Administration</span>
-<span>Risk Assessment</span>
-<span>Firewall Configuration</span>
-<span>Monitoring</span>
-<span>Troubleshooting</span>
-<span>Technical Support</span>
-<span>Team Collaboration</span>
-</div>
+#### 🖥 ICT Technician Intern  
+**Nyanza Reproductive Health Society – Kisumu, Kenya**  
+*Sept 2020 – April 2021*
 
-<div class="card">
-<h3>Certifications</h3>
-<ul>
-<li>CCNA 1</li>
-<li>Wireshark Ninja</li>
-<li>Digital Forensics</li>
-<li>Real Ethical Hacking</li>
-<li>Cybersecurity Essentials</li>
-<li>Data Protection</li>
-</ul>
-</div>
+- Technical troubleshooting
+- IT documentation
+- Inventory management
+- User support & issue escalation
+- Business communication & reporting
 
-</section>
+---
 
-<section id="projects" class="fade-in">
-<h2>Projects</h2>
+### 🛠 Key Skills
 
-<div class="card">
-<h3>Network Security Monitoring System</h3>
-<p>Implemented network traffic analysis using Wireshark and log monitoring to detect suspicious activity.</p>
-</div>
+- Network Security  
+- System Administration  
+- Risk Assessment  
+- Firewall & Router Configuration  
+- Monitoring & Performance Optimization  
+- Troubleshooting & Diagnostics  
+- Technical Support  
+- Team Collaboration  
+- Time Management  
+- Adaptability & Continuous Learning  
 
-<div class="card">
-<h3>Disaster Recovery & Backup Plan</h3>
-<p>Developed structured backup strategies and tested restoration processes to ensure business continuity.</p>
-</div>
+---
 
-<div class="card">
-<h3>Security Awareness Training Program</h3>
-<p>Designed phishing awareness and cyber hygiene training materials for employees.</p>
-</div>
+### 📜 Certifications
 
-</section>
+- CCNA 1  
+- Wireshark Ninja  
+- Digital Forensic Masterclass  
+- Real Ethical Hacking  
+- Mastering Network Security  
+- Cybersecurity Essentials  
+- Data Protection  
+- Real Android App Development  
 
-<section id="labs" class="fade-in">
-<h2>Lab Challenges</h2>
+---
 
-<div class="card">
-<h3>SQL Injection Lab</h3>
-<p><strong>Problem:</strong> Exploit vulnerable login form.</p>
-<p><strong>Approach:</strong> Identified unsanitized inputs and tested injection payloads.</p>
-<p><strong>Tools:</strong> Burp Suite, Browser DevTools</p>
-<p><strong>Key Lesson:</strong> Always use parameterized queries.</p>
-</div>
+# 🚀 Projects
 
-<div class="card">
-<h3>Linux Privilege Escalation</h3>
-<p><strong>Problem:</strong> Escalate privileges from user to root.</p>
-<p><strong>Approach:</strong> Enumerated SUID files and exploited misconfigurations.</p>
-<p><strong>Tools:</strong> LinPEAS, Linux CLI</p>
-<p><strong>Key Lesson:</strong> Proper permissions prevent exploitation.</p>
-</div>
+---
 
-</section>
+## 🔍 1. Network Security Monitoring System
 
-<section id="contact" class="fade-in">
-<h2>Contact</h2>
+**Description:**  
+Implemented network traffic monitoring and anomaly detection using Wireshark and log analysis.
 
-<div class="card">
-<p><strong>Address:</strong> 42-40118</p>
-<p><strong>Tel:</strong> +254741037755</p>
-<p><strong>Email:</strong> dalmasosuri@gmail.com</p>
-<p><strong>LinkedIn:</strong> Add your LinkedIn link</p>
-<p><strong>GitHub:</strong> Add your GitHub link</p>
-</div>
+**Technologies Used:**  
+Wireshark, Linux, Network Logs
 
-</section>
+**Outcome:**  
+Improved detection of suspicious traffic patterns and security events.
 
-<footer>
-© 2026 Dalmas Osuri | Professional Portfolio
-</footer>
+---
 
-<script>
-function toggleTheme() {
-    document.body.classList.toggle("light");
-}
+## 💾 2. Disaster Recovery & Backup Plan
 
-const faders = document.querySelectorAll('.fade-in');
-const appearOptions = { threshold: 0.2 };
+**Description:**  
+Designed structured backup systems and documented disaster recovery processes.
 
-const appearOnScroll = new IntersectionObserver(function(entries, observer) {
-    entries.forEach(entry => {
-        if (!entry.isIntersecting) return;
-        entry.target.classList.add('visible');
-        observer.unobserve(entry.target);
-    });
-}, appearOptions);
+**Technologies Used:**  
+Windows Server, Linux, Backup Tools
 
-faders.forEach(fader => {
-    appearOnScroll.observe(fader);
-});
-</script>
+**Outcome:**  
+Ensured business continuity and data protection compliance.
 
-</body>
-</html>
+---
+
+## 🎓 3. Security Awareness Training Program
+
+**Description:**  
+Developed employee cybersecurity awareness training covering:
+
+- Phishing
+- Social Engineering
+- Malware Prevention
+- Data Loss Prevention
+
+**Outcome:**  
+Improved staff awareness and reduced security risks.
+
+---
+
+# 🧪 Lab Challenges
+
+---
+
+## 🔐 SQL Injection Lab
+
+**Problem:**  
+Exploit a vulnerable authentication system.
+
+**Approach:**  
+Identified unsanitized user inputs and tested injection payloads.
+
+**Tools Used:**  
+- Burp Suite  
+- Browser Developer Tools  
+
+**Key Lessons Learned:**  
+- Importance of prepared statements  
+- Proper input validation  
+- Secure authentication practices  
+
+---
+
+## 🐧 Linux Privilege Escalation Lab
+
+**Problem:**  
+Escalate privileges from standard user to root.
+
+**Approach:**  
+Enumerated SUID binaries and exploited misconfigurations.
+
+**Tools Used:**  
+- LinPEAS  
+- Linux CLI  
+
+**Key Lessons Learned:**  
+- Principle of least privilege  
+- Proper permission configuration  
+- Security hardening importance  
+
+---
+
+# 📞 Contact Information
+
+📍 **Address:** 42-40118  
+📞 **Phone:** +254741037755  
+📧 **Email:** dalmasosuri@gmail.com  
+
+🔗 LinkedIn: *(Add your LinkedIn URL)*  
+💻 GitHub: *(Add your GitHub URL)*  
+
+---
+
+# 🛠 How to Deploy the Website
+
+1. Create a GitHub repository  
+2. Upload your `index.html` file  
+3. Go to **Settings → Pages**  
+4. Select the main branch  
+5. Save  
+
+Your portfolio will be live at:
+

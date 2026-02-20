@@ -1,4 +1,4 @@
-# 🛡️ Dalmas Osuri – Professional Portfolio Website
+# 🛡️ Dalmas Omoro – Professional Portfolio Website
 
 Welcome to my professional cybersecurity and IT portfolio repository.
 
@@ -213,17 +213,11 @@ Enumerated SUID binaries and exploited misconfigurations.
 📞 **Phone:** +254741037755  
 📧 **Email:** dalmasosuri@gmail.com  
 
-🔗 LinkedIn: *(Add your LinkedIn URL)*  
-💻 GitHub: *(Add your GitHub URL)*  
+🔗 LinkedIn: https://www.linkedin.com/in/omoro-dalmas-348581182/
+💻 GitHub: https://github.com/Omoro254
 
 ---
 
-# 🛠 How to Deploy the Website
-
-1. Create a GitHub repository  
-2. Upload your `index.html` file  
-3. Go to **Settings → Pages**  
-4. Select the main branch  
 5. Save  
 
 Your portfolio will be live at:

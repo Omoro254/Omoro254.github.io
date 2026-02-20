@@ -1,152 +1,164 @@
-# 🛡️ Dalmas Osuri  
-## Network Administrator | System Administrator | ICT Technician  
 
 ---
 
-![Profile Banner](https://via.placeholder.com/1200x300/0a192f/64ffda?text=Dalmas+Osuri+-+Cybersecurity+Portfolio)
+# 📌 Project Overview
+
+This portfolio website was built using:
+
+- HTML5  
+- CSS3 (Cybersecurity-themed design)  
+- Responsive layout  
+- Smooth scrolling navigation  
+- Professional structured sections  
+
+The goal of this project is to present my technical expertise and experience in a structured and professional format for:
+
+- Employers  
+- Academic peers  
+- Collaborators  
+- Internship opportunities  
 
 ---
 
-## 👋 About Me
+# 🏠 Website Structure
 
-Dedicated and skilled IT professional with over 3 years of experience in **System Administration, Network Administration, and Information Security**.  
+The website contains the following sections:
 
-I specialize in:
+## 1️⃣ Home
 
-- 🔐 Network Security & Risk Management  
-- 🖥 System Administration & Optimization  
-- 🛠 Troubleshooting & Technical Support  
-- 📊 Monitoring & Performance Optimization  
-- 🧠 Information Security Management (ISMS)  
-
-I am passionate about securing systems, optimizing network performance, and continuously learning emerging cybersecurity technologies.
+- Professional photo  
+- Full name  
+- Professional title:
+  > Network Admin | System Admin | ICT Technician  
+- Short professional summary  
 
 ---
 
-## 🎓 Education
+## 2️⃣ Resume
 
-**Bachelor of Science in Computer Science**  
-Maseno University – Maseno, Kenya  
+### 🎓 Education
+- Bachelor of Science in Computer Science  
+- Maseno University  
 
----
+### 💼 Professional Experience
 
-## 💼 Professional Experience
-
-### 🔐 Information Security Specialist Intern  
-**GIZ Kenya/Somalia – Nairobi, Kenya**  
-*June 2025 – Present*
-
-- Information asset classification and documentation  
-- Risk identification, assessment, and treatment support  
-- Internal audit & penetration testing coordination  
+#### 🔐 Information Security Specialist Intern – GIZ Kenya/Somalia
+- Information asset classification  
+- Risk assessment documentation  
+- Internal audit & penetration testing support  
 - Security policy development  
-- ISMS documentation and compliance support  
-- Security awareness training initiatives  
+- ISMS documentation  
 
----
-
-### 🌐 System / Network Admin Intern  
-**Kenya Revenue Authority – Kisumu, Kenya**  
-*Jan 2023 – Dec 2024*
-
-- First & second level IT support  
-- Network monitoring & configuration  
-- Disaster recovery planning & routine backups  
+#### 🌐 System / Network Admin Intern – Kenya Revenue Authority
+- Technical support (Level 1 & 2)  
+- Network configuration & monitoring  
+- Disaster recovery planning  
 - Network performance reporting  
-- IT asset tracking & documentation  
+
+#### 🖥 ICT Technician Intern – Nyanza Reproductive Health Society
+- IT troubleshooting  
+- Inventory management  
+- Technical documentation  
+- Customer support  
 
 ---
 
-### 🖥 ICT Technician Intern  
-**Nyanza Reproductive Health Society – Kisumu, Kenya**  
-*Sept 2020 – April 2021*
+### 🛠 Key Skills
 
-- Technical troubleshooting & support  
-- Inventory and documentation management  
-- Customer support and issue escalation  
-- Operational process improvement  
+- Network Security  
+- System Administration  
+- Risk Assessment  
+- Monitoring & Performance Optimization  
+- Firewall & Router Configuration  
+- Troubleshooting & Diagnostics  
+- Technical Support  
+- Team Collaboration  
+- Adaptability & Continuous Learning  
+
+---
+
+### 📜 Certifications
+
+- CCNA 1  
+- Wireshark Ninja  
+- Digital Forensic Masterclass  
+- Real Ethical Hacking  
+- Mastering Network Security  
+- Cybersecurity Essentials  
+- Data Protection  
+- Real Android App Development  
 
 ---
 
-## 🛠 Technical Skills
+## 3️⃣ Projects
 
-```text
-✔ Network Security
-✔ System Administration
-✔ Firewall & Router Configuration
-✔ Risk Assessment
-✔ Monitoring & Optimization
-✔ Troubleshooting & Diagnostics
-✔ Technical Support
-✔ Team Collaboration
-✔ Adaptability & Continuous Learning
+### 🔍 Network Security Monitoring System
+Implemented traffic analysis and anomaly detection using Wireshark and network logs.
+
+### 💾 Disaster Recovery & Backup Plan
+Designed and documented structured backup and disaster recovery processes.
+
+### 🎓 Security Awareness Training Program
+Developed cybersecurity training covering phishing, malware prevention, and social engineering.
 
 ---
-📜 Certifications
 
-🎓 CCNA 1 Certification
+## 4️⃣ Lab Challenges
 
-🕵️ Wireshark Ninja: Mastering Real Wireshark
+### 🔐 SQL Injection Lab
+- **Problem:** Exploit vulnerable authentication system  
+- **Approach:** Identified unsanitized inputs  
+- **Tools:** Burp Suite, Browser DevTools  
+- **Lesson:** Importance of prepared statements and input validation  
 
-🔎 Digital Forensic Masterclass
+### 🐧 Linux Privilege Escalation
+- **Problem:** Escalate user privileges  
+- **Approach:** Enumerated SUID binaries  
+- **Tools:** LinPEAS, Linux CLI  
+- **Lesson:** Proper permission configuration is critical  
 
-💻 Real Ethical Hacking
+---
 
-🛡 Mastering Network Security: Defending Against Cyber Threats
+## 5️⃣ Contact Section
 
-🔐 Cybersecurity Essentials
+- 📍 Address: 42-40118  
+- 📞 Tel: +254741037755  
+- 📧 Email: dalmasosuri@gmail.com  
+- 🔗 LinkedIn (Add link)  
+- 💻 GitHub (Add link)  
 
-📂 Data Protection
+---
 
-📱 Real Android App Development
+# 🎨 Design Features
 
-🚀 Featured Projects
-1️⃣ Network Security Monitoring System
+✔ Cybersecurity-themed dark UI  
+✔ Responsive layout  
+✔ Smooth scrolling navigation  
+✔ Structured card layout  
+✔ Professional typography  
+✔ Clean and readable format  
 
-Implemented traffic monitoring and anomaly detection using Wireshark and log analysis tools.
+---
 
-2️⃣ Disaster Recovery & Backup Strategy
+# 🚀 Deployment Guide
 
-Designed structured disaster recovery documentation with automated backup validation.
+## Option 1 – GitHub Pages
 
-3️⃣ Security Awareness Training Program
+1. Upload `index.html` to your repository  
+2. Go to **Settings → Pages**  
+3. Select `main` branch  
+4. Save  
+5. Your site will deploy automatically  
 
-Developed phishing awareness and cyber hygiene training modules for staff.
+---
 
-🧪 Lab Challenges
-🔐 SQL Injection Lab
+## Option 2 – Netlify
 
-Problem: Exploit vulnerable login form
-Tools: Burp Suite, Browser DevTools
-Lesson Learned: Always use parameterized queries and proper input validation
+1. Go to netlify.com  
+2. Drag and drop your project folder  
+3. Deploy instantly  
 
-🐧 Linux Privilege Escalation
+---
 
-Problem: Escalate user privileges
-Tools: LinPEAS, Linux CLI
-Lesson Learned: Misconfigured permissions create serious security risks
+# 📂 Repository Structure
 
-📫 Contact Me
-
-📍 Address: 42-40118
-📞 Tel: +254741037755
-📧 Email: dalmasosuri@gmail.com
-
-🔗 LinkedIn: (Add Link)
-💻 GitHub: (Add Link)
-
-🌐 Portfolio Deployment
-
-This portfolio is designed for deployment via:
-
-GitHub Pages
-
-Netlify
-
-Jekyll (Minimal Mistakes Theme)
-
-🔥 Professional Focus
-
-"Securing Networks. Optimizing Systems. Defending Against Cyber Threats."
-
-© 2026 Dalmas Osuri | Professional Cybersecurity Portfolio

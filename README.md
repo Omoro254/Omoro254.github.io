@@ -33,10 +33,14 @@ I have hands-on experience working with servers, firewalls, routers, switches, a
 ## 🏠 Home
 
 
-  **Full Name:**  Omoro Dalmas
-  **Professional Title:**  Information Security Specialist
+  **Full Name:**  
+  Omoro Dalmas
+  
+  **Professional Title:**  
+  Information Security Specialist
+  
   **Short Professional Summary**
-  Dedicated and results-driven Network and System Administrator with over 3 years of hands-on experience in IT infrastructure management, information security, and technical support. Skilled in network configuration, risk assessment, system troubleshooting, and security monitoring, with a strong foundation in cybersecurity best practices. Proven ability to enhance system performance, ensure data integrity, and support organizational security objectives through proactive problem-solving and continuous improvement.
+Dedicated and results-driven Network and System Administrator with over 3 years of hands-on experience in IT infrastructure management, information security, and technical support. Skilled in network configuration, risk assessment, system troubleshooting, and security monitoring, with a strong foundation in cybersecurity best practices. Proven ability to enhance system performance, ensure data integrity, and support organizational security objectives through proactive problem-solving and continuous improvement.
 
 ---
 
